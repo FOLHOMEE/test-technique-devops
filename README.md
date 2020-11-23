@@ -72,7 +72,7 @@ Décidement, nos développeurs ne veulent rien faire de manuel ! Il veulent pouv
 
 - Il existe de nombreuses choses qui peuvent être faites (notification, message slack, etc ...), à vous de nous dire ce qui vous semble le plus pertinent
 
-### Déploiment sur AWS
+### Déploiement sur AWS
 
 Maintenant que tout semble plutot ok, les développeurs veulent être capable de déployer sur AWS. Pour cet exercice vous devez :
 
